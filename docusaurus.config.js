@@ -137,7 +137,7 @@ const config = {
               //  to: '/blog',
               //},
               {
-                label: 'Toolbox',
+                label: 'Enumeration Tools',
                 to: '/net-pen/techniques/enumeration-tools',
               },
               {
