@@ -13,21 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "70-toolbox/linux-capabilities-abuse.md",
+                "file": "90-writeups/HTB/sau/sau.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c64acda93e0b19ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "70-toolbox/file-transfer/python-http-server.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5cdd1010012140c2",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70-toolbox/linux-capabilities-abuse.md",
+                "file": "90-writeups/HTB/sau/sau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70-toolbox/linux-capabilities-abuse.md",
+                "file": "90-writeups/HTB/sau/sau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70-toolbox/linux-capabilities-abuse.md"
+                "file": "90-writeups/HTB/sau/sau.md"
               }
             }
           }
@@ -160,26 +149,28 @@
   },
   "active": "9f8598343b5ffab9",
   "lastOpenFiles": [
-    "40-web-pen/20-vulns/idor.md",
     "90-writeups/HTB/cap/cap.md",
-    "70-toolbox/linux-capabilities-abuse.md",
+    "90-writeups/HTB/sau/sau.md",
+    "90-writeups/HTB/sau/img/systemctl_privesc.png",
+    "90-writeups/HTB/sau/img/root_id.png",
+    "90-writeups/HTB/sau/img/rce.png",
+    "90-writeups/HTB/sau/img/revshell.png",
+    "90-writeups/HTB/sau/img/sudo_systemctl_status.png",
+    "90-writeups/HTB/sau/img/maltrail_login.png",
+    "90-writeups/HTB/sau/img/55555_mybasket_settings.png",
+    "90-writeups/HTB/sau/img/55555_web_mybasket.png",
+    "90-writeups/HTB/sau/img/55555_web_created.png",
     "70-toolbox/file-transfer/python-http-server.md",
+    "90-writeups/HTB/sau/img",
+    "70-toolbox/linux-capabilities-abuse.md",
+    "90-writeups/HTB/sau",
+    "40-web-pen/20-vulns/idor.md",
     "70-toolbox/Sin título",
     "70-toolbox/file-transfer",
-    "90-writeups/HTB/cap/img/sudo_version.png",
-    "90-writeups/HTB/cap/img/posibles_cves.png",
     "90-writeups/HTB/cap/writeup_template_basic.md",
     "90-writeups/HTB/cap/writeup-template_thinking.md",
-    "90-writeups/HTB/cap/img/Cap_image.png",
     "01-misc/hackings-labs.md",
     "01-misc/external-resources.md",
-    "90-writeups/HTB/cap/img/Pasted image 20260109002155.png",
-    "90-writeups/HTB/cap/img/Capabilities.png",
-    "90-writeups/HTB/cap/img/Pasted image 20260109001651.png",
-    "90-writeups/HTB/cap/img/curl_X_GET_linpeas.png",
-    "90-writeups/HTB/cap/img/python3_http.server.png",
-    "90-writeups/HTB/cap/img/wireshark_0_pcap.png",
-    "90-writeups/HTB/cap/img/wireshark_4_pcap.png",
     "90-writeups/HTB/cap/img",
     "90-writeups/HTB/cap",
     "90-writeups/HTB/Cap/cap.md",
