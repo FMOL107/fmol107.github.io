@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90-writeups/HTB/sau/sau.md",
+                "file": "40-web-pen/20-vulns/idor.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "6dcc894923361b7f",
+            "id": "dca12b197bdc2e1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-post-exploitation/10-linux/tty-interactiva.md",
+                "file": "40-web-pen/10-methodology/fuzzing.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tty",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90-writeups/HTB/sau/sau.md",
+                "file": "40-web-pen/20-vulns/idor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90-writeups/HTB/sau/sau.md",
+                "file": "40-web-pen/20-vulns/idor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90-writeups/HTB/sau/sau.md"
+                "file": "40-web-pen/20-vulns/idor.md"
               }
             }
           }
@@ -160,8 +160,20 @@
   },
   "active": "9f8598343b5ffab9",
   "lastOpenFiles": [
-    "30-post-exploitation/10-linux/tty-interactiva.md",
     "90-writeups/HTB/sau/sau.md",
+    "90-writeups/HTB/permx/permx.md",
+    "40-web-pen/10-methodology/fuzzing.md",
+    "40-web-pen/10-methodology/python-fuzzing.md",
+    "30-post-exploitation/10-linux/pager-escape-less.md",
+    "40-web-pen/20-vulns/ssrf.md",
+    "40-web-pen/20-vulns/ssrfgpt.md",
+    "90-writeups/HTB/permx/img/web_chamilo.png",
+    "90-writeups/HTB/permx/img/web_permx.png",
+    "90-writeups/HTB/permx/img",
+    "40-web-pen/90-shells/img/cmd_phar_test.png",
+    "40-web-pen/90-shells/img/php_ver.png",
+    "90-writeups/HTB/permx",
+    "30-post-exploitation/10-linux/tty-interactiva.md",
     "90-writeups/HTB/cap/cap.md",
     "90-writeups/HTB/sau/img/systemctl_privesc.png",
     "90-writeups/HTB/sau/img/root_id.png",
@@ -169,9 +181,6 @@
     "90-writeups/HTB/sau/img/revshell.png",
     "90-writeups/HTB/sau/img/sudo_systemctl_status.png",
     "90-writeups/HTB/sau/img/maltrail_login.png",
-    "90-writeups/HTB/sau/img/55555_mybasket_settings.png",
-    "90-writeups/HTB/sau/img/55555_web_mybasket.png",
-    "90-writeups/HTB/sau/img/55555_web_created.png",
     "70-toolbox/file-transfer/python-http-server.md",
     "90-writeups/HTB/sau/img",
     "70-toolbox/linux-capabilities-abuse.md",
@@ -188,12 +197,10 @@
     "90-writeups/HTB/Cap/cap.md",
     "90-writeups/HTB/Cap",
     "90-writeups/HTB",
-    "90-writeups",
     "70-toolbox/wordlists.md",
     "70-toolbox/chrome-remote-debugger.md",
     "70-toolbox/reverse-shells.md",
     "70-toolbox/bof.md",
-    "70-toolbox",
     "00-start/intro.md"
   ]
 }
