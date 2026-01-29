@@ -15,7 +15,7 @@
               "state": {
                 "file": "30-post-exploitation/10-linux/pager-escape-less.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
