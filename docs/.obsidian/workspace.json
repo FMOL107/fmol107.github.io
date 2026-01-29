@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-web-pen/20-vulns/idor.md",
+                "file": "30-post-exploitation/10-linux/pager-escape-less.md",
                 "mode": "source",
                 "source": true
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "&gt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40-web-pen/20-vulns/idor.md",
+                "file": "30-post-exploitation/10-linux/pager-escape-less.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40-web-pen/20-vulns/idor.md",
+                "file": "30-post-exploitation/10-linux/pager-escape-less.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-web-pen/20-vulns/idor.md"
+                "file": "30-post-exploitation/10-linux/pager-escape-less.md"
               }
             }
           }
@@ -160,6 +161,7 @@
   },
   "active": "9f8598343b5ffab9",
   "lastOpenFiles": [
+    "40-web-pen/20-vulns/idor.md",
     "90-writeups/HTB/sau/sau.md",
     "90-writeups/HTB/permx/permx.md",
     "40-web-pen/10-methodology/fuzzing.md",
@@ -185,7 +187,6 @@
     "90-writeups/HTB/sau/img",
     "70-toolbox/linux-capabilities-abuse.md",
     "90-writeups/HTB/sau",
-    "40-web-pen/20-vulns/idor.md",
     "70-toolbox/Sin título",
     "70-toolbox/file-transfer",
     "90-writeups/HTB/cap/writeup_template_basic.md",
